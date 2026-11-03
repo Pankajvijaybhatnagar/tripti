@@ -1,0 +1,178 @@
+[
+  {
+    "id": "seed-reel-1",
+    "title": "Monsoon Brew Launch",
+    "category": "reels",
+    "client": "Monsoon Brew",
+    "year": "2026",
+    "description": "A 30-second launch reel with kinetic type and cherry-soaked colour grading.",
+    "type": "art",
+    "src": null,
+    "createdAt": 16
+  },
+  {
+    "id": "seed-logo-1",
+    "title": "Ember & Oak",
+    "category": "logos",
+    "client": "Ember & Oak Café",
+    "year": "2026",
+    "description": "Warm, handcrafted identity for an artisanal wood-fired café.",
+    "type": "art",
+    "src": null,
+    "createdAt": 15
+  },
+  {
+    "id": "seed-thumb-1",
+    "title": "Tech Unboxed EP.12",
+    "category": "thumbnails",
+    "client": "Tech Unboxed",
+    "year": "2026",
+    "description": "Thumbnail system that lifted channel CTR by 64%.",
+    "type": "art",
+    "src": null,
+    "createdAt": 14
+  },
+  {
+    "id": "seed-poster-1",
+    "title": "Cherry Jazz Fest",
+    "category": "posters",
+    "client": "Blue Note Society",
+    "year": "2025",
+    "description": "Festival poster series with loud, rhythmic typography.",
+    "type": "art",
+    "src": null,
+    "createdAt": 13
+  },
+  {
+    "id": "seed-mag-1",
+    "title": "Velvet Issue 07",
+    "category": "magazines",
+    "client": "Velvet Magazine",
+    "year": "2025",
+    "description": "Editorial cover and 24-page fashion spread.",
+    "type": "art",
+    "src": null,
+    "createdAt": 12
+  },
+  {
+    "id": "seed-pack-1",
+    "title": "Rosé Tea Co.",
+    "category": "packaging",
+    "client": "Rosé Tea Co.",
+    "year": "2026",
+    "description": "Premium tea tin packaging with foil and emboss details.",
+    "type": "art",
+    "src": null,
+    "createdAt": 11
+  },
+  {
+    "id": "seed-card-1",
+    "title": "Mehra Architects",
+    "category": "visiting-cards",
+    "client": "Mehra Architects",
+    "year": "2025",
+    "description": "Letterpress visiting cards on 600gsm cotton stock.",
+    "type": "art",
+    "src": null,
+    "createdAt": 10
+  },
+  {
+    "id": "seed-book-1",
+    "title": "Paper Moon Books",
+    "category": "bookmarks",
+    "client": "Paper Moon",
+    "year": "2025",
+    "description": "Illustrated bookmark set for an indie bookstore.",
+    "type": "art",
+    "src": null,
+    "createdAt": 9
+  },
+  {
+    "id": "seed-reel-2",
+    "title": "Neon Nights Promo",
+    "category": "reels",
+    "client": "Club Neon",
+    "year": "2025",
+    "description": "Beat-synced promo reel for a nightlife brand.",
+    "type": "art",
+    "src": null,
+    "createdAt": 8
+  },
+  {
+    "id": "seed-logo-2",
+    "title": "Kairo Labs",
+    "category": "logos",
+    "client": "Kairo Labs",
+    "year": "2025",
+    "description": "Geometric monogram for an AI research startup.",
+    "type": "art",
+    "src": null,
+    "createdAt": 7
+  },
+  {
+    "id": "seed-thumb-2",
+    "title": "Street Food Diaries",
+    "category": "thumbnails",
+    "client": "Foodie Ankit",
+    "year": "2025",
+    "description": "Mouth-watering thumbnail series for a food vlog.",
+    "type": "art",
+    "src": null,
+    "createdAt": 6
+  },
+  {
+    "id": "seed-poster-2",
+    "title": "Rage Against Silence",
+    "category": "posters",
+    "client": "Indie Film Collective",
+    "year": "2024",
+    "description": "Minimal film poster for a festival selection.",
+    "type": "art",
+    "src": null,
+    "createdAt": 5
+  },
+  {
+    "id": "seed-mag-2",
+    "title": "Arcade Quarterly",
+    "category": "magazines",
+    "client": "Arcade",
+    "year": "2024",
+    "description": "Retro gaming magazine cover with neon accents.",
+    "type": "art",
+    "src": null,
+    "createdAt": 4
+  },
+  {
+    "id": "seed-pack-2",
+    "title": "Spice Atelier",
+    "category": "packaging",
+    "client": "Spice Atelier",
+    "year": "2024",
+    "description": "Modular spice box packaging system.",
+    "type": "art",
+    "src": null,
+    "createdAt": 3
+  },
+  {
+    "id": "seed-card-2",
+    "title": "Lumen Studio",
+    "category": "visiting-cards",
+    "client": "Lumen Studio",
+    "year": "2024",
+    "description": "Duplex cards with a cherry edge-paint finish.",
+    "type": "art",
+    "src": null,
+    "createdAt": 2
+  },
+  {
+    "id": "seed-book-2",
+    "title": "Ink & Verse",
+    "category": "bookmarks",
+    "client": "Ink & Verse Poetry",
+    "year": "2024",
+    "description": "Poetry bookmarks with gold foil verses.",
+    "type": "art",
+    "src": null,
+    "createdAt": 1
+  }
+]
